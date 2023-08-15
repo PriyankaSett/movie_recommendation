@@ -1,0 +1,10 @@
+pandas 
+numpy
+matplotlib
+scikit-learn
+nltk
+#pickle
+streamlit
+
+# local packages
+-e .
