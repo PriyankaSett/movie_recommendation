@@ -8,9 +8,29 @@ This project is deployed using 'Streamlit'.
 
 
 ### How to run ?
-- Download the whole package as zip. Unzip the package. 
-- Go to the new folder (ie. the folder created after unzipping) and create a local enviornment. I have used python version 3.8. 
-- Now make a directory named 'artifacts'. 
+- Download the whole package as zip.
+- Unzip the package, i.e. 'movie_recommendation.zip':
+```
+unzip movie_recommendation.zip
+```
+- Go to the new folder (ie. the folder created after unzipping)
+```
+cd movie_recommendation
+```
+- Create a local enviornment. I have used python version 3.8. One can use higher version too.
+```
+conda create -p venv python==3.8 -y
+
+```
+- Activate the new enviornment.
+```
+conda activate venv/
+```
+
+- Now make a directory named 'artifacts'.
+```
+mkdir artifacts
+```
 - To install required libraries, do - 
 ```
 pip install -r requirements.txt
