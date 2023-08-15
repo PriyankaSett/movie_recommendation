@@ -45,7 +45,10 @@ streamlit run app.py
 ```
 This will open a browser at localhost where you will be able to get the recommendations.  
 
-Here is a glimse of the output. 
+Here is a glimpse of the output. 
 ![Recommendation 1](reco1.png)
 ![Recommendation 1](reco2.png)
 ![Recommendation 1](reco3.png)
+
+
+- Run it and feel free to ask any doubts. Happy coding !!
